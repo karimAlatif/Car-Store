@@ -1,0 +1,70 @@
+{
+    "general": {
+        "vocabularies": {
+            "recommend": "يوصي به",
+            "h": "س"
+        },
+        "sideMenu": {
+            "dashboard": "لوحة القيادة",
+            "cars": "سيارات"
+        },
+        "navBar": {
+            "heyMsg": "اهلا",
+            "logOut": "تسجيل الخروج"
+        }
+    },
+    "dasboard": {
+        "widgets": {
+            "energy": "الطاقة",
+            "range": "النطاق",
+            "breakFluid": "زيت الفرامل",
+            "tireWear": "ارتداء الإطارات"
+        },
+        "banners": {
+            "applyBanner": {
+                "title": "التقدم بطلب للحصول على قرض السيارة!",
+                "subtitle": "هذه عينة من النص الذي تم إنشاؤه",
+                "butText": "اكتشف الآن"
+            },
+            "badgeBanner": {
+                "title": "لقد كسبت",
+                "badges": "شارات",
+                "points": "نقاط",
+                "msg1": "مرحا! طريقة للذهاب محمد!",
+                "msg2": "تخليص والمطالبة بمكافآتك!"
+            }
+        }
+    },
+    "cars": {
+        "title": "الحجز",
+        "sort": {
+            "latest": "الاحدث",
+            "earliest": "الاقدم"
+        },
+        "filters": {
+            "state": {
+                "title": "الحالة",
+                "new": "جديد",
+                "used": "مستعمل"
+            },
+            "gearType": {
+                "title": "ناقل الحركة",
+                "manual": "يدوي",
+                "automatic": "اوتوماتيك"
+            },
+            "type": {
+                "title": "النوع",
+                "family": "عائلية",
+                "fun": "ممتعة",
+                "small": "صغيرة",
+                "suv": "دفع رباعي"
+            }
+        }
+    },
+    "errorPages": {
+        "404": {
+            "title": "الصفحة غير موجودة",
+            "homeButton": "العودة إلى الصفحة الرئيسية"
+        }
+    }
+}

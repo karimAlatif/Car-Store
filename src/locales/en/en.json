@@ -1,0 +1,70 @@
+{
+  "general": {
+    "vocabularies": {
+      "recommend": "Recommend",
+      "h": "H"
+    },
+    "sideMenu": {
+      "dashboard": "Dashboard",
+      "cars": "Cars"
+    },
+    "navBar": {
+      "heyMsg": "Hey",
+      "logOut": "logOut"
+    }
+  },
+  "dasboard": {
+    "widgets": {
+      "energy": "Energy",
+      "range": "Range",
+      "breakFluid": "Break Fluid",
+      "tireWear": "Tire Wear"
+    },
+    "banners": {
+      "applyBanner": {
+        "title": "Apply for a car loan !",
+        "subtitle": "This is a sample of a generated text",
+        "butText": "Discover now"
+      },
+      "badgeBanner": {
+        "title": "You have earned",
+        "badges": "Badges",
+        "points": "Points",
+        "msg1": "Hooray! Way to go Mohammed!",
+        "msg2": "Redeem and claim your rewards!"
+      }
+    }
+  },
+  "cars": {
+    "title": "Booking",
+    "sort": {
+      "latest": "Latest",
+      "earliest": "Earliest"
+    },
+    "filters": {
+      "state": {
+        "title": "State",
+        "new": "New",
+        "used": "Used"
+      },
+      "gearType": {
+        "title": "Gear Type",
+        "manual": "Manual",
+        "automatic": "Automatic"
+      },
+      "type": {
+        "title": "Type",
+        "family": "Family",
+        "fun": "Fun",
+        "small": "Small",
+        "suv": "Suv"
+      }
+    }
+  },
+  "errorPages": {
+    "404": {
+      "title": "Page Not Found",
+      "homeButton": "Back To Home Page"
+    }
+  }
+}
