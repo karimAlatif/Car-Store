@@ -13,7 +13,7 @@
 
 
 * Demo  *
-* Live Link --- > https://dulcet-pithivier-a18218.netlify.app/application/dashboard
+* Live Link --- > https://dulcet-pithivier-a18218.netlify.app/
 
 ![image](https://github.com/karimAlatif/Car-Store/assets/6688936/f5318b4a-8629-4632-96ac-df39136c5d0e)
 ![image](https://github.com/karimAlatif/Car-Store/assets/6688936/dbab3b93-1a17-4660-a2ad-bf82ece2dfda)
