@@ -15180,8 +15180,6 @@
         ><data name="Status"><value>Active</value></data
         ><data name="Country"><value>Sweden</value></data></ExtendedData
     ></Placemark>
-
-    
     <Placemark>
       <name>Location-1</name>
       <styleUrl>#GroundStation</styleUrl>
@@ -15192,7 +15190,6 @@
         <data name="Country"><value>Australia</value></data>
       </ExtendedData>
     </Placemark>
-
     <Placemark>
       <name>Location-2</name>
       <styleUrl>#GroundStation</styleUrl>
@@ -26181,7 +26178,7 @@
         <data name="Country"><value>Australia</value></data>
       </ExtendedData>
     </Placemark>
-    
+
     <Placemark
       ><name>Solna</name><styleUrl>#GroundStation</styleUrl
       ><Point><coordinates>17.96916,59.35483</coordinates></Point
@@ -27208,4 +27205,3 @@
       ></Placemark
     ></Document
   ></kml
-
